@@ -1,0 +1,5 @@
+pulp==3.3.0
+pandas>=2.0,<3.0
+matplotlib>=3.7,<4.0
+notebook>=7.0,<8.0
+ipykernel>=6.0,<8.0
